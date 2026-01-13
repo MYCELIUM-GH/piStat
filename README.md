@@ -8,4 +8,4 @@ For power supply I chose PD Type-C to 4 pin
 
 WIP wiring diagram
 
-<img src="https://github.com/MYCELIUM-GH/piStat/blob/6fbc4a46d3b2200f40c692fbf0e231d2b65c8acc/circuit_image.png">
+<img src="https://github.com/MYCELIUM-GH/piStat/blob/b252f13e49a16a57c5bc7986bd0ce998a8e7a061/wiring.png">
