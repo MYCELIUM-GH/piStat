@@ -1,5 +1,15 @@
 # piStat
-Updated version of my SSD1306 display for RPI stats with Spotify integration.
+Updated version of my SSD1306 display for RPI stats.
+
+**DON'T FORGET TO ADD wifi_secrets.h file into the folder, where your .cpp file is!**
+Example of content for that file:
+`
+#define SECRET_SSID "network_ssid"
+#define SECRET_PASS "network_password"
+#define SECRET_APIL "https://your_website/api/stats"
+#define SECRET_FLASK "127.0.0.0:5001"
+`
+Also make sure you're using 2.4GHz network, most ESP modules support only this freq.
 
 # Wiring
 For power supply I chose PD Type-C to 4 pin
